@@ -6,7 +6,7 @@
 
 <h2>Hello World of Spring!</h2>
 
-Student name: ${param.studentName}
+Student name: ${message}
 
 </body>
 
